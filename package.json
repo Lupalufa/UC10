@@ -1,0 +1,23 @@
+{
+  "name": "uc-10-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lupalufa/UC10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lupalufa/UC10/issues"
+  },
+  "homepage": "https://github.com/Lupalufa/UC10#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
